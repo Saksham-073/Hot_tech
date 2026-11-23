@@ -1,0 +1,55 @@
+github_hot_repos_monthly_2026-11-21.csv -> github_hot_repos_monthly_2026-11-23.csv
+
+Compared snapshots 2 days apart: 3547 repos in both, 53 new, 53 dropped.
+
+Fastest risers (stars/day since last snapshot):
+                           name  stars_old  stars_new  gain_per_day  growth_pct
+            ItsNotRexed/Leonida      950.0    24886.0       11968.0      2519.6
+               pingdotgg/t3code    69218.0    74228.0        2505.0         7.2
+elementalsouls/Claude-BugHunter    15641.0    19265.0        1812.0        23.2
+                    morluto/rea   472540.0   475268.0        1364.0         0.6
+                   BaaRai/ARTEX    14811.0    17319.0        1254.0        16.9
+ havenicec/google-qr-sms-helper     1744.0     4229.0        1242.5       142.5
+                  stablyai/orca   131794.0   134195.0        1200.5         1.8
+ Ebony-Vinyl/dsh-our-free-model    83022.0    84927.0         952.5         2.3
+       storytold/craft-anything    40136.0    41953.0         908.5         4.5
+anefzaoui/misterdownloadmanager    15421.0    17206.0         892.5        11.6
+
+Stalled (lowest growth %):
+                                    name  stars_old  stars_new  gain_per_day  growth_pct
+       wuyoscar/Internal-Safety-Collapse     2610.0     2532.0         -39.0        -3.0
+                 lynote-ai/humanize-text     3523.0     3444.0         -39.5        -2.2
+                       arcboxlabs/arcbox     4321.0     4231.0         -45.0        -2.1
+    TrooperFilter/Gemini-Config-Checker-      470.0      465.0          -2.5        -1.1
+     TurtleReside/Gemini-Config-Checker-      470.0      465.0          -2.5        -1.1
+ TypeTyrantScheme/Gemini-Config-Checker-      470.0      465.0          -2.5        -1.1
+   Violetnyudress/Gemini-Config-Checker-      470.0      465.0          -2.5        -1.1
+ VisionWormStudio/Gemini-Config-Checker-      470.0      465.0          -2.5        -1.1
+Visionbeyondtrack/Gemini-Config-Checker-      470.0      465.0          -2.5        -1.1
+   VortexHostFeel/Gemini-Config-Checker-      470.0      465.0          -2.5        -1.1
+
+Biggest new entrants:
+                                    name  stars_new   language
+                        Fei-Craft/DS-Bot     8777.0 JavaScript
+                            xinif-a/apds     4759.0 JavaScript
+                   EL4CTEO/fast-anything     2963.0       Rust
+                    FatihMakes/Mark-LVII     2309.0     Python
+wzyn20051216/solidworks-automation-skill     2305.0     Python
+                         HKUDS/TokenWise     2290.0 TypeScript
+      Trystan-SA/product-engineer-skills     2066.0     Python
+                  RobMitt/grill-me-skill     1843.0  None/Docs
+                         rustrak/rustrak     1784.0       Rust
+                   diggerhq/opencomputer     1660.0 TypeScript
+
+Dropped out (most stars at last sight):
+                                    name  stars_old
+                          Fei2411/DS-Bot     8624.0
+krisgfx9/Wireless-Device-Battery-Monitor     5737.0
+  xixu-me/awesome-persona-distill-skills     4756.0
+                     gylive/google-ultra     2582.0
+                           LetsFG/LetsFG     2295.0
+                          HKUDS/FastCode     2289.0
+           can4hou6joeng4/boss-agent-cli     2286.0
+  Trystan-SA/claude-design-system-prompt     2065.0
+                    jdnei/JiChangTuiJian     2019.0
+                    zarazhangrui/tab-out     1819.0
